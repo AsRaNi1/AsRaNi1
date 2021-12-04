@@ -6,7 +6,7 @@
 
 ## About Me😀
 I am Arnav Zutshi, currently pursuing B.Tech in Computer Science at Veermata Jijabai Technologinal Institute, Mumbai. Enthusiastic about coding and AI/ML.
-<!-- - 🌱 I’m currently learning ... -->
+<!-- - 🌱 I’m currently learning u... -->
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
