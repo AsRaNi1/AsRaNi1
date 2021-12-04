@@ -9,5 +9,7 @@
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
 ## 📞 Contact Me 
-[@Email](arnzut1324@gmail.com), [@Linkedin](https://www.linkedin.com/in/arnav-zutshi-7002901b5/), 
+* [@Email](arnzut1324@gmail.com)
+* [@Linkedin](https://www.linkedin.com/in/arnav-zutshi-7002901b5/)
+* [@instagram](https://www.instagram.com/arnavzutshi/)
 <!-- - ⚡ Fun fact: ... -->
