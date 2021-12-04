@@ -3,13 +3,18 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AsRaNi1&show_icons=true&theme=aura)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AsRaNi1&layout=compact&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- - 🔭 I’m currently working on R-Cell (a self made blockchain based crypto-currency) -->
+
+## About Me😀
+I am Arnav Zutshi, currently pursuing B.Tech in Computer Science at Veermata Jijabai Technologinal Institute, Mumbai. Enthusiastic about coding and AI/ML.
 <!-- - 🌱 I’m currently learning ... -->
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
+## Projects💻
+* [Live-CCTV](https://github.com/AsRaNi1/live-cctv): Aimed at solving large storage spacr occupied by unnecesary data stored in CCTV camera storage.
+* [R-Cell](https://github.com/AsRaNi1/R-Cell): Built a Crypto-Currency using blockchain technology and published it on a localhost webpage using ngrok.
 ## 📞 Contact Me 
-* [@Email](arnzut1324@gmail.com)
+* Email: arnzut1324@gmail.com
 * [@Linkedin](https://www.linkedin.com/in/arnav-zutshi-7002901b5/)
 * [@instagram](https://www.instagram.com/arnavzutshi/)
 <!-- - ⚡ Fun fact: ... -->
