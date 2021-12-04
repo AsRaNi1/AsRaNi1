@@ -8,5 +8,6 @@
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
+## 📞 Contact Me 
+[@Email](arnzut1324@gmail.com), [@Linkedin](https://www.linkedin.com/in/arnav-zutshi-7002901b5/), 
+<!-- - ⚡ Fun fact: ... -->
