@@ -14,7 +14,7 @@ I am Arnav Zutshi, currently pursuing B.Tech in Computer Science at Veermata Jij
 * [Live-CCTV](https://github.com/AsRaNi1/live-cctv): Aimed at solving large storage spacr occupied by unnecesary data stored in CCTV camera storage.
 * [R-Cell](https://github.com/AsRaNi1/R-Cell): Built a Crypto-Currency using blockchain technology and published it on a localhost webpage using ngrok.
 ## 📞 Contact Me 
-* 📧Email: arnzut1324@gmail.com
-* [![linkedin](https://user-images.githubusercontent.com/84843295/144754738-8e5d4128-12c6-4f5f-b430-3b7f35c59d46.png)@Linkedin](https://www.linkedin.com/in/arnav-zutshi-7002901b5/)
+* [Email: arnzut1324@gmail.com
+* [@Linkedin](https://www.linkedin.com/in/arnav-zutshi-7002901b5/)
 * [@instagram](https://www.instagram.com/arnavzutshi/)
 
