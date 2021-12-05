@@ -1,7 +1,7 @@
 # Hi there, Welcome to my GitHub Page 👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AsRaNi1&show_icons=true&theme=aura)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AsRaNi1&layout=compact&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AsRaNi1&layout=compact&theme=aura)
 
 
 ## About Me😀
