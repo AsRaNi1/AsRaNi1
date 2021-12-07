@@ -10,12 +10,6 @@ I am Arnav Zutshi, currently pursuing B.Tech in Computer Science at Veermata Jij
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
-## Languages, Frameworks & IDE's
-
-### Languages
-<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="50">
-
-
 
 ## Projects💻
 * [Live-CCTV](https://github.com/AsRaNi1/live-cctv): Aimed at solving large storage spacr occupied by unnecesary data stored in CCTV camera storage.
