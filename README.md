@@ -13,7 +13,7 @@ I am Arnav Zutshi, currently pursuing B.Tech in Computer Science at Veermata Jij
 
 ## Projects💻
 * [Live-CCTV](https://github.com/AsRaNi1/live-cctv): Aimed at solving large storage spacr occupied by unnecesary data stored in CCTV camera storage.
-* [R-Cell](https://github.com/AsRaNi1/R-Cell): Built a Crypto-Currency using blockchain technology and published it on a localhost webpage using ngrok.
+* [R-Cell](https://github.com/AsRaNi1/R-Cell): Built a Crypto-Currency using blockchain technology and published it on a localhost webpage.
 * [Vision Beyond Limits](https://github.com/AsRaNi1/Vision-Beyond-Limits): Aimed at detecting buildings and classifying them based on their damage using post Earthquake imagery. 
 ## 📞 Contact Me 
 * Email: arnzut1324@gmail.com
