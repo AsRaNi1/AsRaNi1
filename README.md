@@ -1,8 +1,8 @@
 # Hi there, Welcome to my GitHub Page 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AsRaNi1&show_icons=true&theme=aura)<br>
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AsRaNi1&show_icons=true&theme=aura)<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AsRaNi1&layout=compact&theme=aura)
-
+ -->
 
 ## About Me😀
 I am Arnav Zutshi, currently pursuing B.Tech in Computer Science at Veermata Jijabai Technologinal Institute, Mumbai. Enthusiastic about coding and AI/ML.
