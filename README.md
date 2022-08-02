@@ -1,6 +1,6 @@
 # Hi there, Welcome to my GitHub Page 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AsRaNi1&show_icons=true&theme=aura)<br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AsRaNi1&show_icons=true&theme=aura)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AsRaNi1&layout=compact&theme=aura)
 
 
